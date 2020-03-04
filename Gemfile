@@ -6,7 +6,7 @@ ruby "2.6.2"
 # Framework/server
 gem "bootsnap", ">= 1.4.2", require: false
 gem "dry-system-rails", "~> 0.2"
-gem "puma", "~> 3.11"
+gem "puma", "~> 3.12"
 gem "rails", "~> 6.0.0"
 
 # Database
